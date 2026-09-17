@@ -1,4 +1,5 @@
 # Hi, I'm Simran Gurung  👋
+![Python](https://shields.io) ![SQL](https://shields.io) ![LinkedIn](https://shields.io)
 ### Data Science Student| Inspiria Knowledge Campus (2nd Year)
 
 I focus on using Data Analytics to find patterns , detect anomalies ,and solve Cybersecurity challenges. 
@@ -6,7 +7,6 @@ I focus on using Data Analytics to find patterns , detect anomalies ,and solve C
 ---
 
 ##   My Tech Stack 🛠️
-
 * **Languages:**  Python, SQL
 * **Data Analysis:** Pandas, NumPy
 * **Tools & Platforms:** Jupyter Notebooks, Git, GitHub Desktop
@@ -22,4 +22,5 @@ I focus on using Data Analytics to find patterns , detect anomalies ,and solve C
 ##  Let's Connect! 📫
 * **Email:** simrangurung348@gmail.com
 * **LinkedIn**: [simran-gurung-9966a1377](https://linkedin.com)
+
 
