@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Simran Gurung  👋
+### Data Science Student| Inspiria Knowledge Campus (2nd Year)
 
-<!--
-**simrangurung348-cmyk/simrangurung348-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I focus on using Data Analytics to find patterns , detect anomalies ,and solve Cybersecurity challenges. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##   My Tech Stack 🛠️
+
+* **Languages:**  Python, SQL
+* **Data Analysis:** Pandas, NumPy
+* **Tools & Platforms:** Jupyter Notebooks, Git, GitHub Desktop
+
+---
+
+##   Education 📚
+* **B.Sc. in Data Science** (2nd Year)
+* **Inspiria Knowledge Campus**, Siliguri
+
+---
+
+##  Let's Connect! 📫
+* **Email:** simrangurung348@gmail.com
+* **LinkedIn**: [simran-gurung-9966a1377](https://linkedin.com)
+
